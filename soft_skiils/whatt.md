@@ -96,3 +96,10 @@ if project then 10
 reward yourself at 50 xp and minus xp at going insta at 1 hour above( -10xp)
 
 
+# constant learning mindset
+
+1) CURIOUSITY IS KEY
+
+2) engae in reading 
+
+3) teach news
