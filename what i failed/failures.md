@@ -7,3 +7,7 @@
 3) can't manage time
 
 4) do lot of vibe coding 
+
+
+5) learned more about webd and changed the plan up
+
